@@ -8,7 +8,9 @@ Sendo ao final avaliado qual o melhor modelo que forneceu a melhor acurácia em 
 </br>
 </br>
 </br>
+
 [Link Apresentação](https://www.youtube.com/watch?v=P1PwPvnyDVo)
+
 </br>
 </br>
 O Script notebook foi criado no Google Colab
