@@ -5,8 +5,11 @@
 Este repositório é destinado a publicação do material referente ao trabalho de conclusão de curso do curso de especialização em Ciências de Dados e Big Data.
 Neste trabalho foi analisado os dados de pedidos de uma statup brasileira de e-commerce e aplicado modelos de machine learning para realização de previsões.
 Sendo ao final avaliado qual o melhor modelo que forneceu a melhor acurácia em suas previsões.
-
+<br>
 [Link Apresentação](https://www.youtube.com/watch?v=P1PwPvnyDVo)
-
+<br>
+<br>
+O Script notebook foi criado no Google Colab
+<br>
 <h3>Ermivaldo Cunha de Jesus Júnior</h3>
 <h4>Belo Horizonte - 2021 </h4>
