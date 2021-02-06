@@ -1,31 +1,10 @@
 <h1>PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS</h1>
 <h2>NÚCLEO DE EDUCAÇÃO A DISTÂNCIA</h2>
 <h3>Pós-graduação Lato Sensu em Ciência de Dados e Big Data</h4>
-
-
-
-
-
-
+<h2>MODELOS PREDITIVOS APLICADOS A SÉRIES TEMPORAIS</h2>
+Este repositório é destinado a publicação do material referente ao trabalho de conclusão de curso do curso de Expecialização em Ciências de Dados e Big Data.
+Neste trabalho foi analisado os dados de pedidos de uma statup brasileira de e-commerce e aplicado modelos de machine learning para avaliação de qual o melhor modelo que foneceria a melhor performance de acurácia.
 
 <h3>Ermivaldo Cunha de Jesus Júnior</h3>
-
-
-
-
-
-<h2>MODELOS PREDITIVOS APLICADOS A SÉRIES TEMPORAIS</h2>
-
-
-
-
-
-
-
-
-
-
-
-
 ## Belo Horizonte
 ##  2021 
