@@ -7,5 +7,4 @@ Neste trabalho foi analisado os dados de pedidos de uma statup brasileira de e-c
 Sendo ao final avaliado qual o melhor modelo que forneceu a melhor acurácia em suas previsões.
 
 <h3>Ermivaldo Cunha de Jesus Júnior</h3>
-<h4>Belo Horizonte<h4>
-<h4>2021 </h4>
+<h4>Belo Horizonte - 2021 </h4>
